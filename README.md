@@ -1,7 +1,8 @@
 Welcome to OlyCode
 ==================
 
-Olympia Code LLC is a small software development company located in Olympia, Washington.
+Olympia Code LLC is a small software development company founded by [Joe Mortillaro](/About-Me) in 2013 in Olympia, Washington.
+
 
 
 Games
